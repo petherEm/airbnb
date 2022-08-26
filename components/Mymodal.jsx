@@ -11,7 +11,7 @@ const Mymodal = () => {
           X
         </div>
         <p className="text-white text-[16px] font-semibold tracking-wide leading-relaxed">
-          Hi there, this is one of my training projects mastering ReactJS and TailwindCSS that I built and modified following the amazing tutorial of  <a href="https://www.papareact.com/" target="_blank" className="font-bold text-green-400">PapaReact.</a>
+          Hi there, this is one of my training projects mastering ReactJS and TailwindCSS that I built and modified following the amazing tutorial of  <a href="https://www.papareact.com/" target="_blank" rel="noreferrer" className="font-bold text-green-400">PapaReact.</a>
           <br />
           I genuinely recommend it as one of the top courses on the Web.
           <br />
