@@ -59,7 +59,6 @@ const Map = ({ searchResults }) => {
             
             >
                 
-                
             {result.title}
             </Popup>
           ) : (
